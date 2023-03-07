@@ -1,5 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning Data Science at Codeup
+🌱 I’m currently learning Data Science at Codeup.
+
+Why? Because I have become interested in the ways data can be used for many things after my experiences in the US Air Force.
 
 <!--
 **tkephart96/tkephart96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

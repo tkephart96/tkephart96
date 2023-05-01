@@ -1,0 +1,20 @@
+name: WordCloud
+
+# everyday at 00:00 UTC.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with WordCloud
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tkephart96/profile-wordcloud@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          IGNORE_REPOS: ".github"
+          IGNORE_FILE_TYPES: ".pickle,.csv,.png,.tgz,.gz,.zip,.html,.snl,.yml,.RData,.pyptoj,.vue,.gif,__pycache__,.mod,.pdf,.Rdata,.obj,.o,.so,.mp4,.in,.mtx"
+          WIDTH: "100%"
+          CMAP: "hsv"

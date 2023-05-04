@@ -2,11 +2,11 @@
 
 🌱 I’m currently learning Data Science at Codeup
 
-🤓 Always learning new things, code being one that I like
+🔭 I'm interested in the ways data can be used for a multitude of things
+
+🤓 Always learning new things
 
 🤔 I’m currently open for a new job opportunity, this is [MY RESUME](https://my.indeed.com/p/tylerk-4j0q6y6)
-
-🔭 I'm interested in the ways data can be used for a multitude of things
 
 <p>
 📫 How to reach me:
@@ -15,7 +15,7 @@
 	<a href="https://github.com/tkephart96"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## 🛠️ Some Tools I have used
+## 🛠️ Some Tools I've used
 
 <p>
     <a href="https://www.python.org" target="_blank">
@@ -35,9 +35,9 @@
     <a href="https://www.json.org/json-en.html"><img alt="JSON" img src="https://img.shields.io/badge/-json-0D1117?style=flat&logo=json"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-mysql-0D1117?&style=flat&logo=mysql"/></a>
 </p>
-</br>
-<summary><b>⚡ Top Languages</b></summary>
-</br>
+
+### ⚡ Top Languages
+
 <p align="center">
 	<a href="https://github.com/tkephart96">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkephart96&theme=midnight-purple&bg_color=0D1117&hide_border=true&layout=compact" alt="tkephart96">
@@ -46,4 +46,3 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
-

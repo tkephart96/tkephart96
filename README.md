@@ -1,7 +1,5 @@
 # Hello! 👋 Welcome to my GitHub
 
-## I'm Tyler
-
 🌱 I’m currently learning Data Science at Codeup
 
 🔭 I'm interested in the ways data can be used for a multitude of things, especially for nature, science, and natural language

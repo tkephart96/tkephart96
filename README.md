@@ -43,7 +43,7 @@
 <a href="https://cloud.google.com/bigquery"><img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-0D1117?&style=flat&logo=google"/></a>
 </p>
 
-### ⚡ Top Languages
+<!-- ### ⚡ Top Languages
 
 <p align="center">
 <a href="https://github.com/tkephart96">
@@ -52,4 +52,4 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<br/>
+<br/> -->

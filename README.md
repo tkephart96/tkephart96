@@ -6,42 +6,51 @@
 
 🤓 Always learning new things, such as data analysis techniques, data visualization tools, and machine learning models
 
-🤔 I’m currently open for a new job opportunity, this is [MY RESUME](https://my.indeed.com/p/tylerk-4j0q6y6)
+🤔 I’m currently open for a new job opportunity, you can contact me through any of the below links
 
-<p>
-📫 How to reach me:
-<a href="mailto:tkephart96@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/tkephart96/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/tkephart96"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+📫 **How to reach me:**
+
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:tkephart96@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tkephart96/) [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/tkephart96)
 
 ## 🛠️ Some Tools I've used
 
-<p>
-<a href="https://www.python.org" target="_blank">
-<img alt="Python" src="https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python"></a>
-<a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5"></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript"></a>
-<a href="https://www.w3schools.com/sql/default.asp"><img alt="SQL" src="https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=sql"></a>
-<a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=matplotlib"></a>
-<a href="https://seaborn.pydata.org/tutorial/introduction"><img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-0D1117?style=flat&logo=seaborn"></a>
-<a href="https://scipy.org/"><img alt="SciPy" src="https://img.shields.io/badge/-SciPy-0D1117?style=flat&logo=scipy"></a>
-<a href="https://scikit-learn.org/stable/"><img alt="Sci-Kit Learn" src="https://img.shields.io/badge/-sklearn-0D1117?style=flat&logo=scikitlearn"></a>
-<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git"></a>
-<a href="https://github.com/tkephart96"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github"></a>
-<a href="https://jupyter.org/"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter"></a>
-<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
-<a href="https://public.tableau.com/app/discover"><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau"></a>
-<!-- <a href="https://docs.databricks.com/getting-started/community-edition.html"><img alt="Databricks" src="https://img.shields.io/badge/-Databricks-0D1117?style=flat&logo=databricks"></a> -->
-<a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-0D1117?style=flat&logo=google%20sheets"></a>
-<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown"></a>
-<a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-0D1117?style=flat&logo=stack-overflow"></a>
-<a href="https://www.geeksforgeeks.org/"><img alt="Geek For Geeks" src="https://img.shields.io/badge/-geeksforgeeks-0D1117?style=flat&logo=geeksforgeeks"></a>
-<a href="https://www.json.org/json-en.html"><img alt="JSON" img src="https://img.shields.io/badge/-json-0D1117?style=flat&logo=json"></a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-mysql-0D1117?&style=flat&logo=mysql"/></a>
-<a href="https://cloud.google.com/bigquery"><img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-0D1117?&style=flat&logo=google"/></a>
-</p>
+<!-- 
+![name](path or link to image)
+[name](path or link to click)
+[![name](path or link to image)](path or link to click)
+-->
+[![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)](https://www.python.org)
+[![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/-Numpy-0D1117?style=flat&logo=numpy)](https://numpy.org/)
+[![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=sql)](https://www.w3schools.com/sql/default.asp)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=flat&logo=seaborn)](https://seaborn.pydata.org/tutorial/introduction)
+[![Sci-Kit Learn](https://img.shields.io/badge/-SKLearn-0D1117?style=flat&logo=scikitlearn)](https://scikit-learn.org/stable/)
+[![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat&logo=scipy)](https://scipy.org/)
+[![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)](https://github.com/tkephart96)
+[![Anaconda](https://img.shields.io/badge/-Anaconda-0D1117?style=flat&logo=anaconda)](https://anaconda.org/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=flat&logo=jupyter)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=flat&logo=selenium)](https://www.selenium.dev/)
+[![Kibana](https://img.shields.io/badge/-Kibana-0D1117?style=flat&logo=kibana)](https://www.elastic.co/downloads/kibana)
+[![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau)](https://public.tableau.com/app/discover)
+[![MySQL](https://img.shields.io/badge/-MySQL-0D1117?&style=flat&logo=mysql)](https://www.mysql.com/)
+[![Spark](https://img.shields.io/badge/-Spark-0D1117?&style=flat&logo=apachespark)](https://spark.apache.org/)
+[![BigQuery](https://img.shields.io/badge/-BigQuery-0D1117?&style=flat&logo=google)](https://cloud.google.com/bigquery)
+[![Databricks](https://img.shields.io/badge/-Databricks-0D1117?style=flat&logo=databricks)](https://docs.databricks.com/getting-started/community-edition.html)
+[![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=flat&logo=sqlite)](https://www.sqlite.org/index.html)
+[![Polars](https://img.shields.io/badge/-Polars-0D1117?&style=flat&logo=polars)](https://www.pola.rs/)
+[![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0D1117?style=flat&logo=google%20sheets)](https://www.google.com/sheets/about/)
+[![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JSON](https://img.shields.io/badge/-JSON-0D1117?style=flat&logo=json)](https://www.json.org/json-en.html)
+[![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)](https://www.markdownguide.org/)
+[![Confluence](https://img.shields.io/badge/-Confluence-0D1117?style=flat&logo=confluence)](https://www.atlassian.com/software/confluence)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-0D1117?style=flat&logo=stack-overflow)](https://stackoverflow.com/)
+[![Geek For Geeks](https://img.shields.io/badge/-Geeks%20for%20Geeks-0D1117?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-0D1117?style=flat&logo=openai)](https://chat.openai.com/)
 
 <!-- ### ⚡ Top Languages
 

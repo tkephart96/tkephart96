@@ -1,6 +1,8 @@
 # Hello! 👋 Welcome to my GitHub
 
-🌱 I’m currently learning Data Science at Codeup
+🌱 I’m currently playing around with data that catches my interest
+
+📖 I learned Data Science at [Codeup](https://codeup.edu/program/data-science/)
 
 🔭 I'm interested in the ways data can be used for a multitude of things, especially for nature, science, and natural language
 
@@ -19,6 +21,7 @@
 [name](path or link to click)
 [![name](path or link to image)](path or link to click)
 -->
+
 [![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)](https://www.python.org)
 [![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)](https://pandas.pydata.org/)
 [![Numpy](https://img.shields.io/badge/-Numpy-0D1117?style=flat&logo=numpy)](https://numpy.org/)

@@ -27,6 +27,8 @@
 [![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=flat&logo=seaborn)](https://seaborn.pydata.org/tutorial/introduction)
 [![Sci-Kit Learn](https://img.shields.io/badge/-SKLearn-0D1117?style=flat&logo=scikitlearn)](https://scikit-learn.org/stable/)
 [![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat&logo=scipy)](https://scipy.org/)
+[![NLTK](https://img.shields.io/badge/-NLTK-0D1117?style=flat&logo=nltk)](https://www.nltk.org/)
+[![TextBlob](https://img.shields.io/badge/-TextBlob-0D1117?style=flat&logo=textblob)](https://textblob.readthedocs.io/en/dev/index.html)
 [![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)](https://github.com/tkephart96)
 [![Anaconda](https://img.shields.io/badge/-Anaconda-0D1117?style=flat&logo=anaconda)](https://anaconda.org/)

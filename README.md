@@ -8,7 +8,7 @@
 
 🤓 Always learning new things, such as data analysis techniques, data visualization tools, and machine learning models
 
-🤔 I’m currently open for a new job opportunity, you can contact me through any of the below links
+<!-- 🤔 I’m currently open for a new job opportunity, you can contact me through any of the below links -->
 
 📫 **How to reach me:**
 

@@ -2,7 +2,7 @@
 
 🌱 I’m currently playing around with data that catches my interest
 
-📖 I learned Data Science at [Codeup](https://codeup.edu/program/data-science/)
+📖 I initially learned Data Science at Codeup and I'm now working towards a Master of Science in Data Science at the University of Colorado Boulder
 
 🔭 I'm interested in the ways data can be used for a multitude of things, especially for nature, science, and natural language
 
@@ -12,7 +12,7 @@
 
 📫 **How to reach me:**
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:tkephart96@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tkephart96/) [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/tkephart96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tkephart96/) [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/tkephart96)
 
 ## 🛠️ Some Tools I've used
 

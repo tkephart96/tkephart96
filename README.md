@@ -4,7 +4,7 @@
 
 🌑 By night, I’m playing around with data that catches my interest
 
-📖 I learned some Data Science at Codeup and I'm learning more at the UC Boulder
+📖 I learned some Data Science at Codeup and I'm learning more at UC Boulder
 
 🌠🔭 I'm interested in the ways data can be used for lots of things, especially 🍃 nature, 🚀 science, and 📝 natural language
 
